@@ -1,0 +1,6 @@
+/.vscode
+/config/config.yaml
+/core/__pycache__
+/log/log.log
+/.venv
+/test.json

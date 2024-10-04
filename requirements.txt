@@ -1,0 +1,7 @@
+aiohttp==3.9.5
+alibabacloud_alidns20150109==3.5.3
+alibabacloud_tea_openapi==0.3.11
+alibabacloud_tea_util==0.3.13
+loguru==0.7.2
+PyYAML==6.0.1
+

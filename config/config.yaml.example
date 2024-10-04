@@ -1,0 +1,14 @@
+# 配置文件示例
+
+# 域名信息
+domain: # 主域名，例如 example.com
+sub_domain: # 子域名，例如 www
+enable_ipv6: # 是否启用 IPv6 支持，例如 true 或 false
+
+# DNS 服务配置
+dns:
+  type: # DNS 类型，支持 aliyun 或 cloudflare
+  api_key: # 对于 Cloudflare Dns 服务的 API 密钥
+  email: '' # 对于 Cloudflare，填写 Cloudflare 账户的电子邮件地址
+  aliyun_access_key: '' # 对于阿里云 DNS，填写阿里云的 Access Key ID
+  aliyun_access_secret: '' # 对于阿里云 DNS，填写阿里云的 Access Key Secret
